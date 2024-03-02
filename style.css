@@ -68,7 +68,8 @@ input[type="text"]:focus {
 .more-info span {
     font-weight: 600;
 }
-.copy span{
+
+.copy span {
     color: rgb(237, 12, 35);
     font-size: 20px;
 }
